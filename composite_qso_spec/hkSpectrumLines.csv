@@ -1,0 +1,72 @@
+# Line list for spectra of active galaxies
+# The following is a list of prominent emission and absorption lines which may be detected in the spectra of quasars. Note the use of paired [ ] and single ] square brackets to denote forbidden lines and semi-forbidden lines respectively.
+# Note that lines are usually denoted by the species: i.e. the element and its ionisation state (roman numerals) followed by the wavelength in Angstroms.The exceptions are the hydrogen lines which have particular names: Ha, Hb, Lya etc.
+# This line list has been adapted from Table 24.6 of Cox, A.N., (Ed.) 2000, Allen's Astrophysical Quantities (Fourth Edition), Springer-Verlag, New York.  Note that at wavelengths below 2000Å, wavelengths are in vacuo, and above 2000Å wavelengths are in air.
+
+Line,Wavelength / Å
+S VI,937.06
+Lyg,972.54
+C III,977.02
+N III,990.98
+Lyb,1025.72
+O VI,1033.82
+He II,1084.94
+Si II,1194.1
+Ly$\alpha$,1215.67
+O V,1218.34
+N V,1240.15
+Si II,1263.31
+O I,1303.49
+Si II,1307.64
+C II,1335.31
+Si IV,1396.76
+O IV],1402.34
+N IV],1486.5
+Si II,1531.18
+C IV,1549.05
+He II,1640.42
+O III],1664.15
+Al II,1670.79
+N III],1750.46
+Si II,1813.98
+Al III,1857.4
+Si III],1892.03
+C III],1908.73
+N II],2141.36
+C II],2326.58
+[Ne IV],2418.7
+Mg II,2797.92
+He II,3203.07
+[Ne V],3345.83
+[Ne V],3425.87
+[O II],3726.67
+[Ne III],3868.75
+He I,3888.65
+[Ne III],3967.47
+He,3970.07
+[S II],4068.6
+[S II],4076.35
+Hd,4101.73
+Hg,4340.46
+[O III],4363.21
+He II,4685.65
+[Ar IV],4711.34
+[Ar IV],4740.2
+H$\beta$,4861.32
+[O III],4958.91
+[O III],5006.84
+[N I],5199.82
+[Ca V],5309.18
+[Fe VII],5721.11
+[N II],5754.57
+He I,5875.7
+[Fe VII],6086.92
+[O I],6300.3
+[O I],6363.78
+[Fe X],6374.53
+H$\alpha$,6562.8
+[N II],6548.06
+[N II],6583.39
+[S II],6716.47
+[S II],6730.85
+O I,8446.5
